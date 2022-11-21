@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm AlexMouth</h1>
 <h3 align="center">A Frenchman passionate about a bit of everything.</h3>
 
