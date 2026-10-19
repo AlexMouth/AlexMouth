@@ -41,10 +41,19 @@
 
 <h3 align="center">🎨 Front-end</h3>
 <table align="center"><tr>
+<td align="center" width="110"><img src="icons/react-original.svg" width="48" height="48" alt="React"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="110"><img src="icons/nextjs-original.svg" width="48" height="48" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
+<td align="center" width="110"><img src="icons/typescript-original.svg" width="48" height="48" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="110"><img src="icons/tailwindcss-original.svg" width="48" height="48" alt="Tailwind"/><br/><sub><b>Tailwind</b></sub></td>
 <td align="center" width="110"><img src="icons/html5-original.svg" width="48" height="48" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
 <td align="center" width="110"><img src="icons/css3-original.svg" width="48" height="48" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
+</tr></table>
+
+<h3 align="center">🧩 UI & Design</h3>
+<table align="center"><tr>
 <td align="center" width="110"><img src="icons/sass-original.svg" width="48" height="48" alt="Sass"/><br/><sub><b>Sass</b></sub></td>
 <td align="center" width="110"><img src="icons/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/><br/><sub><b>Bootstrap</b></sub></td>
+<td align="center" width="110"><img src="icons/vitejs-original.svg" width="48" height="48" alt="Vite"/><br/><sub><b>Vite</b></sub></td>
 <td align="center" width="110"><img src="icons/webpack-original.svg" width="48" height="48" alt="Webpack"/><br/><sub><b>Webpack</b></sub></td>
 <td align="center" width="110"><img src="icons/figma-original.svg" width="48" height="48" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
 <td align="center" width="110"><img src="icons/photoshop-plain.svg" width="48" height="48" alt="Photoshop"/><br/><sub><b>Photoshop</b></sub></td>
@@ -55,6 +64,7 @@
 <td align="center" width="110"><img src="icons/symfony-original.svg" width="48" height="48" alt="Symfony"/><br/><sub><b>Symfony</b></sub></td>
 <td align="center" width="110"><img src="icons/mysql-original.svg" width="48" height="48" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
 <td align="center" width="110"><img src="icons/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center" width="110"><img src="icons/supabase-original.svg" width="48" height="48" alt="Supabase"/><br/><sub><b>Supabase</b></sub></td>
 </tr></table>
 
 <h3 align="center">☁️ Tools & Infra</h3>
@@ -63,6 +73,7 @@
 <td align="center" width="110"><img src="icons/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/><br/><sub><b>AWS</b></sub></td>
 <td align="center" width="110"><img src="icons/linux-original.svg" width="48" height="48" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
 <td align="center" width="110"><img src="icons/git-original.svg" width="48" height="48" alt="Git"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="110"><img src="icons/vercel-original.svg" width="48" height="48" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
 </tr></table>
 
 <br/>
