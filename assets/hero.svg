@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="440" viewBox="0 0 1200 440"><style>
+text{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif;}
+:root{--bg1:#f5f5f7;--card:#ffffff;--cardop:.72;--stroke:#ffffff;--t1:#1d1d1f;--t2:#6e6e73;--shadow:#000;--shop:.10;--blob1:#7cc4ff;--blob2:#c9a7ff;--blob3:#ffb3c7;}
+@media (prefers-color-scheme: dark){:root{--bg1:#000000;--card:#ffffff;--cardop:.10;--stroke:#ffffff;--t1:#f5f5f7;--t2:#a1a1a6;--shop:.45;--blob1:#0a84ff;--blob2:#5e5ce6;--blob3:#bf5af2;}}
+</style><defs>
+<linearGradient id="glassfill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="var(--card)" stop-opacity="var(--cardop)"/><stop offset="1" stop-color="var(--card)" stop-opacity="calc(var(--cardop) * .6)"/></linearGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset=".5" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity=".35"/></linearGradient>
+<linearGradient id="tile" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ececf0"/></linearGradient>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000" flood-opacity="var(--shop)"/></filter>
+<filter id="tshadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#000" flood-opacity=".18"/></filter>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="70"/></filter>
+</defs><rect width="1200" height="440" rx="44" fill="var(--bg1)"/>
+<g filter="url(#blur)"><circle cx="230" cy="120" r="170" fill="var(--blob1)" opacity=".75"/><circle cx="640" cy="360" r="190" fill="var(--blob2)" opacity=".6"/><circle cx="1010" cy="110" r="170" fill="var(--blob3)" opacity=".65"/></g>
+<rect x="60" y="60" width="1080" height="320" rx="48" fill="url(#glassfill)" filter="url(#shadow)"/>
+<rect x="60.5" y="60.5" width="1079" height="319" rx="48" fill="none" stroke="url(#rim)" stroke-width="1"/>
+<text x="600" y="215" text-anchor="middle" font-size="104" font-weight="700" letter-spacing="-3" fill="var(--t1)">Hello, I’m Alex.</text>
+<text x="600" y="272" text-anchor="middle" font-size="27" font-weight="400" letter-spacing=".2" fill="var(--t2)">A Frenchman passionate about a bit of everything.</text>
+<g transform="translate(600 335)" font-size="17" font-weight="600" text-anchor="middle">
+<rect x="-262" y="-22" width="150" height="40" rx="20" fill="var(--t1)" opacity=".08"/><text x="-187" y="5" fill="var(--t1)">🧠 Second brain</text>
+<rect x="-90" y="-22" width="180" height="40" rx="20" fill="var(--t1)" opacity=".08"/><text x="0" y="5" fill="var(--t1)">🌱 Always learning</text>
+<rect x="112" y="-22" width="150" height="40" rx="20" fill="var(--t1)" opacity=".08"/><text x="187" y="5" fill="var(--t1)">🇫🇷 France</text>
+</g></svg>
